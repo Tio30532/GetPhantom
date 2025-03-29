@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Phantom Roblox Exploit</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Phantom Roblox Exploit" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          A Level 8 Roblox Exploit With Its Own Api That U can Use</code>
         </p>
       </main>
 
