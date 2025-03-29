@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Phantom Roblox Exploit" />
         <p className="description">
-          A Level 8 Roblox Exploit With Its Own Api That U can Use</code>
+          A Level 8 Roblox Exploit With Its Own API That You Can Use
         </p>
       </main>
 
